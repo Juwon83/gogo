@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          강성이형 화이팅~~!!!
         </a>
       </header>
     </div>
